@@ -1,8 +1,7 @@
 # PoShExportADOUStructure
 I had a project where i needed to replicate the OU structure in a dummy test domain for validation of group policy objects (things like mapped drives/printers for groups) 
 <BR />
-I created this script to export  the OU structure from our existing AD environment into my lab environment. This can also be done with specific LDAP commands but I wanted to learn how to do it in PowerShell.   Hand script if you ever want to import a replica of your OU structure in a lab environment
-
+I created this script to export  the OU structure from our existing AD environment into my lab environment. This can also be done with specific LDAP commands but I wanted to learn how to do it in PowerShell.   Hand script if you ever want to import a replica of your OU structure in a lab environment<BR />
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PoShExportADOUStructure">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/PoShExportADOUStructure">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/PoShExportADOUStructure/total">
